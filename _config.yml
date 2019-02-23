@@ -1,5 +1,5 @@
 # Site settings
-title: Somak DUtta's CV 
+title: Somak Dutta
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
@@ -29,7 +29,7 @@ author:
   workHistory:
     - work1:
       company: XXX Ltd
-      location: Auckland, New Zealand
+      location: Mumbai, India
       title: Java Developer
       started: 2014
       duration: (2014 - Present)
@@ -70,16 +70,16 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      
     - skill2:
       name: Bootstrap
-      percentage: 90%
+      
     - skill3:
       name: JavaScript
-      percentage: 70%
+      
     - skill4:
       name: AngularJS
-      percentage: 70%
+      
     - skill5:
       name: Java/Java EE
-      percentage: 90%
+      
