@@ -72,14 +72,14 @@ author:
       name: HTML
       
     - skill2:
-      name: Bootstrap
-      
+      name: Languages
+      proficiency: Java -v1.5/1.6/1.8, Python -v2.7/3
     - skill3:
       name: JavaScript
-      
+      proficiency: 70%
     - skill4:
       name: AngularJS
-      
+      proficiency: 70%
     - skill5:
       name: Java/Java EE
-      
+      proficiency: 90%
